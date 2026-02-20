@@ -2,9 +2,6 @@
 
 A fun AI-powered excuse generator that creates realistic excuses for school, work, family, and social situations.
 
-## 🚀 Live Demo
-👉 **[https://Reddi-Karunya.github.io/AI-Intelligent-Excuse-Generator](https://Reddi-Karunya.github.io/AI-Intelligent-Excuse-Generator)**
-
 ## ✨ Features
 - 🎬 Generate smart excuses for different scenarios
 - 💬 Chat-style UI with simulated friend replies
